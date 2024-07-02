@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **respos**
 
-- 🌱 I’m currently learning **node js, supabse**
+- 🌱 I’m currently learning **React Native, supabse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
